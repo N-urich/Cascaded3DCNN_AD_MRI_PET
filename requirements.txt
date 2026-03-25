@@ -1,1 +1,11 @@
-
+torch>=2.0.0
+torchvision
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+SimpleITK
+nibabel
+tqdm
+opencv-python
